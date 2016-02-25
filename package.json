@@ -24,5 +24,8 @@
   "bugs": {
     "url": "https://github.com/graphmalizer/graphmalizer/issues"
   },
-  "homepage": "https://github.com/graphmalizer/graphmalizer#readme"
+  "homepage": "https://github.com/graphmalizer/graphmalizer#readme",
+  "dependencies": {
+    "npm-keywordsearch": "^0.1.0"
+  }
 }
