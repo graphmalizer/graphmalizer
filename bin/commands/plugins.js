@@ -12,7 +12,7 @@ module.exports = function (args) {
     if(packages.length === 0) {
       console.log('No packages found...')
     } else {
-      packages.forEach(pkg => console.log(`${pkg.name}: ${pkg.description}`))
+      packages.forEach(pkg => console.log(`${pkg.name}:  🔌 ${pkg.description}`))
     }
   })
 }
